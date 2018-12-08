@@ -33,3 +33,5 @@ Output for the above input: 2 points are maximal, having index 3 and 4 (Use Zero
 
 
 # In my code, implement an array instead of a vector in 'AVL.h' to get better performance.
+
+Thanks to Ayush Gupta (Teaching Assistant, for course COL-702) for generating the test cases.
